@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,400&family=Roboto:wght@500&display=swap');
+@import url(Components/container.css);
+@import url(Components/avatar.css);
+@import url(Components/button.css);
+@import url(Components/banner.css);
+@import url(Components/flexbox.css);
+@import url(Components/flex-warp.css);
+body{
+ font-family: 'Open Sans', sans-serif;
+}
+
+h1 h2 h3
+{font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
